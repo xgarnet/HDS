@@ -1,2 +1,2 @@
 # HDS 
-Ein tool für die Hardware Development
+Ein Tool für die Hardware Development
